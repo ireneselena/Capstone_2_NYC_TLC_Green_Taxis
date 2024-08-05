@@ -6,7 +6,7 @@
 
 The NYC TLC Green Cab Revenue Maximization project aims to enhance revenue for New York City's green cabs by optimizing fleet allocation based on detailed demand pattern analysis. By strategically aligning resources with peak demand times and locations, this project seeks to improve service efficiency, reduce passenger wait times, and maximize profitability for cab operators.
 
-## Features
+## Analysis
 
 - **Demand Pattern Analysis**: Comprehensive analysis of historical trip data to identify peak demand times and high-traffic zones across NYC.
 - **Fleet Optimization**: Strategies to optimize fleet distribution, ensuring that vehicles are available where and when they are needed most.
