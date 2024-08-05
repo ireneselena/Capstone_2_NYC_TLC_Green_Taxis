@@ -11,7 +11,7 @@ The NYC TLC Green Cab Revenue Maximization project aims to enhance revenue for N
 - **Demand Pattern Analysis**: Comprehensive analysis of historical trip data to identify peak demand times and high-traffic zones across NYC.
 - **Fleet Optimization**: Strategies to optimize fleet distribution, ensuring that vehicles are available where and when they are needed most.
 - **Revenue Insights**: Data-driven insights into revenue trends, allowing for informed decision-making and strategic planning.
-- **Interactive Visualizations**: Tableau dashboards providing a visual representation of demand patterns, enabling intuitive understanding and actionable insights. dasboard:[Q1 2023 Revenue Dashboard] (https://public.tableau.com/views/TLCNYCGreenTaxiRevenueDashboard/TLCNYCGreenTaxiRevenueDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Interactive Visualizations**: Tableau dashboards providing a visual representation of demand patterns, enabling intuitive understanding and actionable insights. Q1 2023 Revenue Dashboard: https://public.tableau.com/views/TLCNYCGreenTaxiRevenueDashboard/TLCNYCGreenTaxiRevenueDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Objectives
 
 - **Maximize Revenue**: Increase revenue by aligning fleet operations with demand, focusing on high-demand areas like Manhattan and specific zones such as East Harlem.
